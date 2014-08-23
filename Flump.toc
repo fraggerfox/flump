@@ -1,0 +1,8 @@
+## Interface: 30300
+## Title: Flump
+## Notes: Announces cooldowns, portals, feasts, and more. No in-game options, configuration via Lua.
+## SavedVariables: FlumpDB
+## Author: Moop
+## Version: 1.0.7
+
+Flump.lua
