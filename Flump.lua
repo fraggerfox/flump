@@ -93,9 +93,9 @@ local use = {
 	-- Paladin
 	[498] 	= true,  -- Divine Protection
 	-- Warrior
-	[12975] = false, -- Last Stand [Gain]
-	[12976] = false, -- Last Stand [Fade]
-	[871] 	= false, -- Shield Wall
+	[12975] = true, -- Last Stand [Gain]
+	[12976] = true, -- Last Stand [Fade]
+	[871] 	= true, -- Shield Wall
 }
 
 local bonus = {
@@ -118,7 +118,7 @@ local special = {
 	[64843] = true, -- Divine Hymn
 	[64901] = true, -- Hymn of Hope
 	-- Shaman
-	[39609] = true, -- Mana Tide Totem
+	[16190] = true, -- Mana Tide Totem
 }
 
 local toys = {
